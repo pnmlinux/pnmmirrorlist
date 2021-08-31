@@ -1,0 +1,9 @@
+##################################
+###	PNM Mirrorlist	#########
+##################################
+
+
+
+#Server Mirrors
+
+Server = https://pnmos.xyz/$repo/$arch
